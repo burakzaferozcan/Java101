@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/02-operators/02-operators.iml" filepath="$PROJECT_DIR$/02-operators/02-operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-examples/03-examples.iml" filepath="$PROJECT_DIR$/03-examples/03-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-conditional-expressions/04-conditional-expressions.iml" filepath="$PROJECT_DIR$/04-conditional-expressions/04-conditional-expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-loops/05-loops.iml" filepath="$PROJECT_DIR$/05-loops/05-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-methods/06-methods.iml" filepath="$PROJECT_DIR$/06-methods/06-methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_PATIKASI.iml" filepath="$PROJECT_DIR$/.idea/JAVA_PATIKASI.iml" />
     </modules>
   </component>
