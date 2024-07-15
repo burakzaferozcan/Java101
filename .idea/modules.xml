@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/04-conditional-expressions/04-conditional-expressions.iml" filepath="$PROJECT_DIR$/04-conditional-expressions/04-conditional-expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-loops/05-loops.iml" filepath="$PROJECT_DIR$/05-loops/05-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-methods/06-methods.iml" filepath="$PROJECT_DIR$/06-methods/06-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-introduction-to-OOP/07-introduction-to-OOP.iml" filepath="$PROJECT_DIR$/07-introduction-to-OOP/07-introduction-to-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-classes/08-classes.iml" filepath="$PROJECT_DIR$/08-classes/08-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-arrays/09-arrays.iml" filepath="$PROJECT_DIR$/09-arrays/09-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-math-string/10-math-string.iml" filepath="$PROJECT_DIR$/10-math-string/10-math-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_PATIKASI.iml" filepath="$PROJECT_DIR$/.idea/JAVA_PATIKASI.iml" />
     </modules>
   </component>
